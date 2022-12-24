@@ -1,0 +1,9 @@
+#include <stdio.h>
+/**
+*main : prints hello world
+*Return :0 if success
+*/
+int _print() {
+printf("hello, World!");
+return 0;
+}
